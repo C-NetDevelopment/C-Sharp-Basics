@@ -1,0 +1,13 @@
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Customer.BL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Customer.BL.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Customer.DAL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\CustomerException.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Lab5Question1dll.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Customer.DAL.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\CustomerException.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\bin\Debug\Lab5Question1dll.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\obj\Debug\Customer.BL.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\obj\Debug\Customer.BL.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\obj\Debug\Customer.BL.csproj.CopyComplete
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\obj\Debug\Customer.BL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.BL\obj\Debug\Customer.BL.pdb

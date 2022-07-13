@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\bin\Debug\EmployeeLibrary.dll
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\bin\Debug\EmployeeLibrary.pdb
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\obj\Debug\EmployeeLibrary.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\obj\Debug\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\obj\Debug\EmployeeLibrary.dll
+C:\Users\nikam\source\repos\ReflectionAttributes\EmployeeLibrary\obj\Debug\EmployeeLibrary.pdb

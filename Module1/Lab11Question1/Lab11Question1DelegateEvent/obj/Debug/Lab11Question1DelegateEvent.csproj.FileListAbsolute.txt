@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\bin\Debug\Lab11Question1DelegateEvent.exe.config
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\bin\Debug\Lab11Question1DelegateEvent.exe
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\bin\Debug\Lab11Question1DelegateEvent.pdb
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\obj\Debug\Lab11Question1DelegateEvent.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\obj\Debug\Lab11Question1DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\obj\Debug\Lab11Question1DelegateEvent.exe
+C:\Users\nikam\source\repos\Lab11Question1\Lab11Question1DelegateEvent\obj\Debug\Lab11Question1DelegateEvent.pdb

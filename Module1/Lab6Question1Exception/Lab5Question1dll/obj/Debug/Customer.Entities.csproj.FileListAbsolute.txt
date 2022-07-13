@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\bin\Debug\Lab5Question1dll.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\bin\Debug\Lab5Question1dll.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\obj\Debug\Customer.Entities.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\obj\Debug\Customer.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\obj\Debug\Lab5Question1dll.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab5Question1dll\obj\Debug\Lab5Question1dll.pdb

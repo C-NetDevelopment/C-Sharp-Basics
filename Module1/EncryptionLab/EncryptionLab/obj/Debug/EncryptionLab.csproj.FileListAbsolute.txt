@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\bin\Debug\EncryptionLab.exe.config
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\bin\Debug\EncryptionLab.exe
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\bin\Debug\EncryptionLab.pdb
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\obj\Debug\EncryptionLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\obj\Debug\EncryptionLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\obj\Debug\EncryptionLab.exe
+C:\Users\nikam\source\repos\EncryptionLab\EncryptionLab\obj\Debug\EncryptionLab.pdb

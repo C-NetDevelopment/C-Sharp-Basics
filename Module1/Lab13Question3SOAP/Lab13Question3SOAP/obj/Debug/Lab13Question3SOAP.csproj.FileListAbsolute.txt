@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\bin\Debug\Lab13Question3SOAP.exe.config
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\bin\Debug\Lab13Question3SOAP.exe
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\bin\Debug\Lab13Question3SOAP.pdb
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\obj\Debug\Lab13Question3SOAP.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\obj\Debug\Lab13Question3SOAP.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\obj\Debug\Lab13Question3SOAP.exe
+C:\Users\nikam\source\repos\Lab13Question3SOAP\Lab13Question3SOAP\obj\Debug\Lab13Question3SOAP.pdb

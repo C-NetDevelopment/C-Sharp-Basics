@@ -1,0 +1,14 @@
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\bin\Debug\EventLab.exe.config
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\bin\Debug\EventLab.exe
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\bin\Debug\EventLab.pdb
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\obj\Debug\EventLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\obj\Debug\EventLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\obj\Debug\EventLab.exe
+C:\Users\nikam\source\repos\DelegateEventLamda\EventLab\obj\Debug\EventLab.pdb
+D:\All Visual\DelegateEventLamda\EventLab\bin\Debug\EventLab.exe.config
+D:\All Visual\DelegateEventLamda\EventLab\bin\Debug\EventLab.exe
+D:\All Visual\DelegateEventLamda\EventLab\bin\Debug\EventLab.pdb
+D:\All Visual\DelegateEventLamda\EventLab\obj\Debug\EventLab.csproj.AssemblyReference.cache
+D:\All Visual\DelegateEventLamda\EventLab\obj\Debug\EventLab.csproj.CoreCompileInputs.cache
+D:\All Visual\DelegateEventLamda\EventLab\obj\Debug\EventLab.exe
+D:\All Visual\DelegateEventLamda\EventLab\obj\Debug\EventLab.pdb

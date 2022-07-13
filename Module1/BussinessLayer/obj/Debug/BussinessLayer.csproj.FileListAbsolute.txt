@@ -1,0 +1,9 @@
+C:\Users\nikam\source\repos\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\nikam\source\repos\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\nikam\source\repos\BussinessLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\nikam\source\repos\BussinessLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\nikam\source\repos\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\nikam\source\repos\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\nikam\source\repos\BussinessLayer\obj\Debug\BussinessLayer.pdb

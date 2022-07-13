@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\bin\Debug\GuestPhoneBook.Entities.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Entities\obj\Debug\GuestPhoneBook.Entities.pdb

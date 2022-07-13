@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\bin\Debug\Project.pdb
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\obj\Debug\Project.pdb
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\bin\Debug\Project.exe
+C:\Users\nikam\source\repos\ProjectLab3.1\Project\obj\Debug\Project.exe

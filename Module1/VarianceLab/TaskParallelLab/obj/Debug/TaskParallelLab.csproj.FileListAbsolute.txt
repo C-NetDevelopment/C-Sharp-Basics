@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\bin\Debug\TaskParallelLab.exe.config
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\bin\Debug\TaskParallelLab.exe
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\bin\Debug\TaskParallelLab.pdb
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\obj\Debug\TaskParallelLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\obj\Debug\TaskParallelLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\obj\Debug\TaskParallelLab.exe
+C:\Users\nikam\source\repos\VarianceLab\TaskParallelLab\obj\Debug\TaskParallelLab.pdb

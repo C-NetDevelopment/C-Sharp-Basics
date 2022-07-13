@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\EmployeeLab\bin\Debug\EmployeeLab.exe.config
+C:\Users\nikam\source\repos\EmployeeLab\bin\Debug\EmployeeLab.exe
+C:\Users\nikam\source\repos\EmployeeLab\bin\Debug\EmployeeLab.pdb
+C:\Users\nikam\source\repos\EmployeeLab\obj\Debug\EmployeeLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\EmployeeLab\obj\Debug\EmployeeLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\EmployeeLab\obj\Debug\EmployeeLab.exe
+C:\Users\nikam\source\repos\EmployeeLab\obj\Debug\EmployeeLab.pdb

@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\bin\Debug\Lab5Question1.dll
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\bin\Debug\Lab5Question1.pdb
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\obj\Debug\Lab5Question1.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\obj\Debug\Lab5Question1.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\obj\Debug\Lab5Question1.dll
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\Lab5Question1\obj\Debug\Lab5Question1.pdb

@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\bin\Debug\GuestPhoneBook.Exceptions.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.Exceptions\obj\Debug\GuestPhoneBook.Exceptions.pdb

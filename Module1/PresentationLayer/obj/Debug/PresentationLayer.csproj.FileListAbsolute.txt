@@ -1,0 +1,12 @@
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\BussinessLayer.dll
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\nikam\source\repos\PresentationLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\nikam\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\nikam\source\repos\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\nikam\source\repos\PresentationLayer\obj\Debug\PresentationLayer.pdb

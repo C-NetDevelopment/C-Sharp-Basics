@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\bin\Debug\CustomerException.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\bin\Debug\CustomerException.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\obj\Debug\CustomerException.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\obj\Debug\CustomerException.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\obj\Debug\CustomerException.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\CustomerException\obj\Debug\CustomerException.pdb

@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\bin\Debug\Lab13Question4XMLSerializer.exe.config
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\bin\Debug\Lab13Question4XMLSerializer.exe
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\bin\Debug\Lab13Question4XMLSerializer.pdb
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\obj\Debug\Lab13Question4XMLSerializer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\obj\Debug\Lab13Question4XMLSerializer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\obj\Debug\Lab13Question4XMLSerializer.exe
+C:\Users\nikam\source\repos\Lab13Question4XMLSerializer\Lab13Question4XMLSerializer\obj\Debug\Lab13Question4XMLSerializer.pdb

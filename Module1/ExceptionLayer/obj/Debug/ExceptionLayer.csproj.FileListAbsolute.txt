@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\nikam\source\repos\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\nikam\source\repos\ExceptionLayer\obj\Debug\ExceptionLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ExceptionLayer\obj\Debug\ExceptionLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+C:\Users\nikam\source\repos\ExceptionLayer\obj\Debug\ExceptionLayer.pdb

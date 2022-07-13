@@ -1,0 +1,11 @@
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.Entities.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\obj\Debug\GuestPhoneBook.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\obj\Debug\GuestPhoneBook.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\obj\Debug\GuestPhoneBook.DataAccessLayer.csproj.CopyComplete
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\obj\Debug\GuestPhoneBook.DataAccessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.DataAccessLayer\obj\Debug\GuestPhoneBook.DataAccessLayer.pdb

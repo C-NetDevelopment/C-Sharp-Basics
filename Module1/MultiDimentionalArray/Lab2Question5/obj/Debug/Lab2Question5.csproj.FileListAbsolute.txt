@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\bin\Debug\Lab2Question5.exe.config
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\bin\Debug\Lab2Question5.exe
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\bin\Debug\Lab2Question5.pdb
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\obj\Debug\Lab2Question5.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\obj\Debug\Lab2Question5.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\obj\Debug\Lab2Question5.exe
+C:\Users\nikam\source\repos\MultiDimentionalArray\Lab2Question5\obj\Debug\Lab2Question5.pdb

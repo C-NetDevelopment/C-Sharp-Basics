@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nikam\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nikam\\.nuget\\packages"
+    ]
+  }
+}

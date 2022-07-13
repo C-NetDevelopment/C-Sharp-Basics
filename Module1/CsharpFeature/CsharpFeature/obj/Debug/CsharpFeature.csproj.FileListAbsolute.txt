@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\bin\Debug\CsharpFeature.exe.config
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\bin\Debug\CsharpFeature.exe
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\bin\Debug\CsharpFeature.pdb
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\obj\Debug\CsharpFeature.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\obj\Debug\CsharpFeature.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\obj\Debug\CsharpFeature.exe
+C:\Users\nikam\source\repos\CsharpFeature\CsharpFeature\obj\Debug\CsharpFeature.pdb

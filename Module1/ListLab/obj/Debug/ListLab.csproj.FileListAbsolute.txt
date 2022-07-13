@@ -1,0 +1,12 @@
+C:\Users\nikam\source\repos\ListLab\bin\Debug\ListLab.exe.config
+C:\Users\nikam\source\repos\ListLab\bin\Debug\ListLab.exe
+C:\Users\nikam\source\repos\ListLab\bin\Debug\ListLab.pdb
+C:\Users\nikam\source\repos\ListLab\obj\Debug\ListLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ListLab\obj\Debug\ListLab.exe
+C:\Users\nikam\source\repos\ListLab\obj\Debug\ListLab.pdb
+D:\All Visual\ListLab\bin\Debug\ListLab.exe.config
+D:\All Visual\ListLab\bin\Debug\ListLab.exe
+D:\All Visual\ListLab\bin\Debug\ListLab.pdb
+D:\All Visual\ListLab\obj\Debug\ListLab.csproj.CoreCompileInputs.cache
+D:\All Visual\ListLab\obj\Debug\ListLab.exe
+D:\All Visual\ListLab\obj\Debug\ListLab.pdb

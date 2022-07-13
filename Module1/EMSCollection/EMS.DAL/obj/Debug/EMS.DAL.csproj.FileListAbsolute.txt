@@ -1,0 +1,11 @@
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.DAL.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.DAL.pdb
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.Entities.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.Exceptions.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.Entities.pdb
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\bin\Debug\EMS.Exceptions.pdb
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\obj\Debug\EMS.DAL.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\obj\Debug\EMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\obj\Debug\EMS.DAL.csproj.CopyComplete
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\obj\Debug\EMS.DAL.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.DAL\obj\Debug\EMS.DAL.pdb

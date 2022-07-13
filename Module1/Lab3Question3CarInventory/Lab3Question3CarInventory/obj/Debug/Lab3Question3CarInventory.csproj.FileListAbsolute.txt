@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\bin\Debug\Lab3Question3CarInventory.exe.config
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\bin\Debug\Lab3Question3CarInventory.exe
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\bin\Debug\Lab3Question3CarInventory.pdb
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\obj\Debug\Lab3Question3CarInventory.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\obj\Debug\Lab3Question3CarInventory.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\obj\Debug\Lab3Question3CarInventory.exe
+C:\Users\nikam\source\repos\Lab3Question3CarInventory\Lab3Question3CarInventory\obj\Debug\Lab3Question3CarInventory.pdb

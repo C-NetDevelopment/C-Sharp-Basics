@@ -1,0 +1,11 @@
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\Customer.DAL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\Customer.DAL.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\CustomerException.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\Lab5Question1dll.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\CustomerException.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\bin\Debug\Lab5Question1dll.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\obj\Debug\Customer.DAL.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\obj\Debug\Customer.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\obj\Debug\Customer.DAL.csproj.CopyComplete
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\obj\Debug\Customer.DAL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Customer.DAL\obj\Debug\Customer.DAL.pdb

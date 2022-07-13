@@ -1,0 +1,16 @@
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Lab6Question1.exe.config
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Lab6Question1.exe
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Lab6Question1.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Customer.BL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\CustomerException.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Lab5Question1dll.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Customer.DAL.dll
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Customer.BL.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\CustomerException.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Lab5Question1dll.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\bin\Debug\Customer.DAL.pdb
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\obj\Debug\Customer.PL.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\obj\Debug\Customer.PL.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\obj\Debug\Customer.PL.csproj.CopyComplete
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\obj\Debug\Lab6Question1.exe
+C:\Users\nikam\source\repos\Lab6Question1Exception\Lab6Question1\obj\Debug\Lab6Question1.pdb

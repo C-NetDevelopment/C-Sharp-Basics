@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\ArrayListLab\bin\Debug\ArrayListLab.exe.config
+C:\Users\nikam\source\repos\ArrayListLab\bin\Debug\ArrayListLab.exe
+C:\Users\nikam\source\repos\ArrayListLab\bin\Debug\ArrayListLab.pdb
+C:\Users\nikam\source\repos\ArrayListLab\obj\Debug\ArrayListLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ArrayListLab\obj\Debug\ArrayListLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ArrayListLab\obj\Debug\ArrayListLab.exe
+C:\Users\nikam\source\repos\ArrayListLab\obj\Debug\ArrayListLab.pdb

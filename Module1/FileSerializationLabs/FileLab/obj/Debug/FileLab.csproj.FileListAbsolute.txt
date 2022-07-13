@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\bin\Debug\FileLab.exe.config
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\bin\Debug\FileLab.exe
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\bin\Debug\FileLab.pdb
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\obj\Debug\FileLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\obj\Debug\FileLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\obj\Debug\FileLab.exe
+C:\Users\nikam\source\repos\FileSerializationLabs\FileLab\obj\Debug\FileLab.pdb

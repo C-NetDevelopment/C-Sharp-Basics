@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab1Question1\obj\Debug\Lab1Question1.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab1Question1\obj\Debug\Lab1Question1.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab1Question1\bin\Debug\Lab1Question1.exe.config
+C:\Users\nikam\source\repos\Lab1Question1\bin\Debug\Lab1Question1.exe
+C:\Users\nikam\source\repos\Lab1Question1\bin\Debug\Lab1Question1.pdb
+C:\Users\nikam\source\repos\Lab1Question1\obj\Debug\Lab1Question1.exe
+C:\Users\nikam\source\repos\Lab1Question1\obj\Debug\Lab1Question1.pdb

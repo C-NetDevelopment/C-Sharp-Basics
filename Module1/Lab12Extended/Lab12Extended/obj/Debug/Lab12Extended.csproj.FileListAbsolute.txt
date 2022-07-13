@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\bin\Debug\Lab12Extended.exe.config
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\bin\Debug\Lab12Extended.exe
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\bin\Debug\Lab12Extended.pdb
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\obj\Debug\Lab12Extended.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\obj\Debug\Lab12Extended.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\obj\Debug\Lab12Extended.exe
+C:\Users\nikam\source\repos\Lab12Extended\Lab12Extended\obj\Debug\Lab12Extended.pdb

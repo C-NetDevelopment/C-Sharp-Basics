@@ -1,0 +1,10 @@
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\bin\Debug\ReflectionLab.exe.config
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\bin\Debug\ReflectionLab.exe
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\bin\Debug\ReflectionLab.pdb
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\bin\Debug\EmployeeLibrary.dll
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\bin\Debug\EmployeeLibrary.pdb
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\obj\Debug\ReflectionLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\obj\Debug\ReflectionLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\obj\Debug\ReflectionLab.csproj.CopyComplete
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\obj\Debug\ReflectionLab.exe
+C:\Users\nikam\source\repos\ReflectionAttributes\ReflectionLab\obj\Debug\ReflectionLab.pdb

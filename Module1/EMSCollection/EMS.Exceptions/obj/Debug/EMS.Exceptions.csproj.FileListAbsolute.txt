@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\bin\Debug\EMS.Exceptions.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\bin\Debug\EMS.Exceptions.pdb
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\obj\Debug\EMS.Exceptions.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\obj\Debug\EMS.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\obj\Debug\EMS.Exceptions.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.Exceptions\obj\Debug\EMS.Exceptions.pdb

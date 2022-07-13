@@ -1,0 +1,6 @@
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\bin\Debug\EMS.Entities.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\bin\Debug\EMS.Entities.pdb
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\obj\Debug\EMS.Entities.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\obj\Debug\EMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\obj\Debug\EMS.Entities.dll
+C:\Users\nikam\source\repos\EMSCollection\EMS.Entities\obj\Debug\EMS.Entities.pdb

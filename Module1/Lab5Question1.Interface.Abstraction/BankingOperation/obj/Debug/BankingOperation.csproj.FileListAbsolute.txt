@@ -1,0 +1,10 @@
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\bin\Debug\BankingOperation.exe.config
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\bin\Debug\BankingOperation.exe
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\bin\Debug\BankingOperation.pdb
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\bin\Debug\Lab5Question1.dll
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\bin\Debug\Lab5Question1.pdb
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\obj\Debug\BankingOperation.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\obj\Debug\BankingOperation.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\obj\Debug\BankingOperation.csproj.CopyComplete
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\obj\Debug\BankingOperation.exe
+C:\Users\nikam\source\repos\Lab5Question1.Interface.Abstraction\BankingOperation\obj\Debug\BankingOperation.pdb

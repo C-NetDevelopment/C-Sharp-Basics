@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\bin\Debug\CSharp6.0NewFeatures.exe.config
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\bin\Debug\CSharp6.0NewFeatures.exe
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\bin\Debug\CSharp6.0NewFeatures.pdb
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\obj\Debug\CSharp6.0NewFeatures.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\obj\Debug\CSharp6.0NewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\obj\Debug\CSharp6.0NewFeatures.exe
+C:\Users\nikam\source\repos\CSharp6.0NewFeatures\CSharp6.0NewFeatures\obj\Debug\CSharp6.0NewFeatures.pdb

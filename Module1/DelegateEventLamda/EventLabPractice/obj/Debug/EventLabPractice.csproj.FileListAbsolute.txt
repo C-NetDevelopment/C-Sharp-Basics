@@ -1,0 +1,7 @@
+D:\All Visual\DelegateEventLamda\EventLabPractice\bin\Debug\EventLabPractice.exe.config
+D:\All Visual\DelegateEventLamda\EventLabPractice\bin\Debug\EventLabPractice.exe
+D:\All Visual\DelegateEventLamda\EventLabPractice\bin\Debug\EventLabPractice.pdb
+D:\All Visual\DelegateEventLamda\EventLabPractice\obj\Debug\EventLabPractice.csproj.AssemblyReference.cache
+D:\All Visual\DelegateEventLamda\EventLabPractice\obj\Debug\EventLabPractice.csproj.CoreCompileInputs.cache
+D:\All Visual\DelegateEventLamda\EventLabPractice\obj\Debug\EventLabPractice.exe
+D:\All Visual\DelegateEventLamda\EventLabPractice\obj\Debug\EventLabPractice.pdb

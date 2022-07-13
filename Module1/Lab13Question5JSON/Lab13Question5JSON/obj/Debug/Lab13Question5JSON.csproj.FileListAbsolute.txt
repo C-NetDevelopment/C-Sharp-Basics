@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\bin\Debug\Lab13Question5JSON.exe.config
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\bin\Debug\Lab13Question5JSON.exe
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\bin\Debug\Lab13Question5JSON.pdb
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\obj\Debug\Lab13Question5JSON.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\obj\Debug\Lab13Question5JSON.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\obj\Debug\Lab13Question5JSON.exe
+C:\Users\nikam\source\repos\Lab13Question5JSON\Lab13Question5JSON\obj\Debug\Lab13Question5JSON.pdb

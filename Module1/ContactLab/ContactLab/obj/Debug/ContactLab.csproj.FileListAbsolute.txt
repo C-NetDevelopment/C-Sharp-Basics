@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\ContactLab\ContactLab\bin\Debug\ContactLab.exe.config
+C:\Users\nikam\source\repos\ContactLab\ContactLab\bin\Debug\ContactLab.exe
+C:\Users\nikam\source\repos\ContactLab\ContactLab\bin\Debug\ContactLab.pdb
+C:\Users\nikam\source\repos\ContactLab\ContactLab\obj\Debug\ContactLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ContactLab\ContactLab\obj\Debug\ContactLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ContactLab\ContactLab\obj\Debug\ContactLab.exe
+C:\Users\nikam\source\repos\ContactLab\ContactLab\obj\Debug\ContactLab.pdb

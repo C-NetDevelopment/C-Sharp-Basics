@@ -1,0 +1,16 @@
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBookLab14.exe.config
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBookLab14.exe
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBookLab14.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.Entities.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.Exceptions.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.Entities.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.Exceptions.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\obj\Debug\GuestPhoneBook.PresentationLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\obj\Debug\GuestPhoneBook.PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\obj\Debug\GuestPhoneBook.PresentationLayer.csproj.CopyComplete
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\obj\Debug\GuestPhoneBookLab14.exe
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBookLab14\obj\Debug\GuestPhoneBookLab14.pdb

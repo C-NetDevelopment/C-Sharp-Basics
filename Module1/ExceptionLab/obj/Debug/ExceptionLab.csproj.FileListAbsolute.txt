@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\ExceptionLab\bin\Debug\ExceptionLab.exe.config
+C:\Users\nikam\source\repos\ExceptionLab\bin\Debug\ExceptionLab.exe
+C:\Users\nikam\source\repos\ExceptionLab\bin\Debug\ExceptionLab.pdb
+C:\Users\nikam\source\repos\ExceptionLab\obj\Debug\ExceptionLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\ExceptionLab\obj\Debug\ExceptionLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\ExceptionLab\obj\Debug\ExceptionLab.exe
+C:\Users\nikam\source\repos\ExceptionLab\obj\Debug\ExceptionLab.pdb

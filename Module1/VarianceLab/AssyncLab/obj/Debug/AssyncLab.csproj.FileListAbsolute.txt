@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\bin\Debug\AssyncLab.exe.config
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\bin\Debug\AssyncLab.exe
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\bin\Debug\AssyncLab.pdb
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\obj\Debug\AssyncLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\obj\Debug\AssyncLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\obj\Debug\AssyncLab.exe
+C:\Users\nikam\source\repos\VarianceLab\AssyncLab\obj\Debug\AssyncLab.pdb

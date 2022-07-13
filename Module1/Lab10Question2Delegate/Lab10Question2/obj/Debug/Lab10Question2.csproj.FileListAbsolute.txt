@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\bin\Debug\Lab10Question2.exe.config
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\bin\Debug\Lab10Question2.exe
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\bin\Debug\Lab10Question2.pdb
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\obj\Debug\Lab10Question2.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\obj\Debug\Lab10Question2.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\obj\Debug\Lab10Question2.exe
+C:\Users\nikam\source\repos\Lab10Question2Delegate\Lab10Question2\obj\Debug\Lab10Question2.pdb

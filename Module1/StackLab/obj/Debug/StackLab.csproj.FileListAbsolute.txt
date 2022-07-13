@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\StackLab\bin\Debug\StackLab.exe.config
+C:\Users\nikam\source\repos\StackLab\bin\Debug\StackLab.exe
+C:\Users\nikam\source\repos\StackLab\bin\Debug\StackLab.pdb
+C:\Users\nikam\source\repos\StackLab\obj\Debug\StackLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\StackLab\obj\Debug\StackLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\StackLab\obj\Debug\StackLab.exe
+C:\Users\nikam\source\repos\StackLab\obj\Debug\StackLab.pdb

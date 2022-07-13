@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\bin\Debug\DelegateLab.exe.config
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\bin\Debug\DelegateLab.exe
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\bin\Debug\DelegateLab.pdb
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\obj\Debug\DelegateLab.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\obj\Debug\DelegateLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\obj\Debug\DelegateLab.exe
+C:\Users\nikam\source\repos\DelegateEventLamda\DelegateLab\obj\Debug\DelegateLab.pdb

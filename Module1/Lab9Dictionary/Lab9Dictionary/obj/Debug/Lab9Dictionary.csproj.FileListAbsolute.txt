@@ -1,0 +1,7 @@
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\bin\Debug\Lab9Dictionary.exe.config
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\bin\Debug\Lab9Dictionary.exe
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\bin\Debug\Lab9Dictionary.pdb
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\obj\Debug\Lab9Dictionary.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\obj\Debug\Lab9Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\obj\Debug\Lab9Dictionary.exe
+C:\Users\nikam\source\repos\Lab9Dictionary\Lab9Dictionary\obj\Debug\Lab9Dictionary.pdb

@@ -1,0 +1,10 @@
+C:\Users\nikam\source\repos\DictionaryLab\bin\Debug\DictionaryLab.exe.config
+C:\Users\nikam\source\repos\DictionaryLab\bin\Debug\DictionaryLab.exe
+C:\Users\nikam\source\repos\DictionaryLab\bin\Debug\DictionaryLab.pdb
+C:\Users\nikam\source\repos\DictionaryLab\obj\Debug\DictionaryLab.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\DictionaryLab\obj\Debug\DictionaryLab.exe
+C:\Users\nikam\source\repos\DictionaryLab\obj\Debug\DictionaryLab.pdb
+D:\All Visual\DictionaryLab\obj\Debug\DictionaryLab.csproj.AssemblyReference.cache
+D:\All Visual\DictionaryLab\obj\Debug\DictionaryLab.csproj.CoreCompileInputs.cache
+D:\All Visual\DictionaryLab\obj\Debug\DictionaryLab.exe
+D:\All Visual\DictionaryLab\obj\Debug\DictionaryLab.pdb

@@ -1,0 +1,13 @@
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.BusinessLayer.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.DataAccessLayer.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Entities.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\bin\Debug\GuestPhoneBook.Exceptions.pdb
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.csproj.CopyComplete
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.dll
+C:\Users\nikam\source\repos\GuestPhoneBookLab14\GuestPhoneBook.BusinessLayer\obj\Debug\GuestPhoneBook.BusinessLayer.pdb
